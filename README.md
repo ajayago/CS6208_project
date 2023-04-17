@@ -17,7 +17,7 @@ The raw data used for creating our graphs is made available in this repo.
 
 ### Graph Construction:
 ----------------------
-To construct the heterogeneous graph please refer to the folder "Graph Construction". The final version of the graph can be downloaded from 
+To construct the heterogeneous graph please refer to the folder "Graph Construction". The final version of the graph can be downloaded from `https://drive.google.com/drive/folders/1vEqd-ghoeO31bjzBHrMXK_QqCeiwZhqQ?usp=share_link` 
 
 ### Benchmarks:
 --------------
