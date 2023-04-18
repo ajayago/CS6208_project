@@ -23,6 +23,3 @@ To construct the heterogeneous graph please refer to the folder "Graph Construct
 --------------
 We compare our method against existing methods for (1) heterogeneous graphs - RGCN and HGT as well as (2) existing cell line drug response prediction models (GraphCDR). These can be found in the folder `benchmarks`
 
-### Our Proposed Model:
-----------------------
-Our model is implemented for the cell line drug response prediction task in the notebook `our_model.ipynb`
